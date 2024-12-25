@@ -1,0 +1,9 @@
+pytesseract
+pdf2image
+transformers
+openai
+streamlit
+localtunnel
+PyMuPDF
+pillow
+langdetect
